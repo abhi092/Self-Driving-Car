@@ -1,9 +1,6 @@
 # Self-Driving-Car
 Self Driving Car Using Covolutinal Neural Networks Via Using NVIDIA Model Architecture for End To End Self Driving Car And For Simulation Using Udacity Open Source Unity Self Driving Car Simulator
 
-## Demo
-
-[![Self Driving Car Project](Image/Track.jpg)](https://youtu.be/oCj7xlMBaTs)
 
 ## Dependencies
 
